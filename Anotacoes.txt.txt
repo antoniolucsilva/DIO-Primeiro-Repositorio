@@ -1,0 +1,3 @@
+devo criar e atualizar meu repositorio no github
+
+livro sobre git -> https://git-scm.com/book/en/v2
