@@ -7,9 +7,9 @@ desafio primeiro repositorio
 
 ## passos basicos
 
-1.criar repositorio
-2.criar arquivos "README.MD" e "anotacoes.txt"
-3.adicionar arquivos (git add)
-4.fazer commit
-5.empurrar arquivos git push
+1. criar repositorio
+2. criar arquivos "README.MD" e "anotacoes.txt"
+3. adicionar arquivos (git add)
+4. fazer commit
+5. empurrar arquivos git push
 
